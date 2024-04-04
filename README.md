@@ -1,5 +1,5 @@
 ## Summary of 'Asking the Right Questions: A Guide to Critical Thinking'
-![Asking The Right Question](./AskingTheRightQuestion.jpeg)
+<img src="./AskingTheRightQuestion.jpeg" width="300" alt="Ask the Right Questions">
 
 ### Introduction
 This repository contains my summary of the book *Asking the Right Questions: A Guide to Critical Thinking* by [M. Neil Browne * Stuart M. Keely]. 
